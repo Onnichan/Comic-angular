@@ -25,15 +25,3 @@
 .fadeIn {
   animation-name: fadeIn;
 }
-
-body{
-  padding-bottom: 20px;
-}
-
-.card{
-  padding-bottom: 20px;
-}
-
-.img-logo{
-  width: 120px;
-}
